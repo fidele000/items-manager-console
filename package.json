@@ -1,0 +1,20 @@
+{
+  "name": "items-store",
+  "version": "1.0.0",
+  "description": "item storage using json file to add,remove and display all added items from console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "console",
+    "args",
+    "node"
+  ],
+  "author": "Fidele Kirezi Cyisa",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
